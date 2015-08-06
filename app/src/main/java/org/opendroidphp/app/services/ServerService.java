@@ -47,6 +47,9 @@ public class ServerService extends Service {
         return mBinder;
     }
 
+    /**
+     * Commented out deprecated code that causes build to fail in android studio
+     */
     protected void initialize() {
 
         Context context = getApplicationContext();
