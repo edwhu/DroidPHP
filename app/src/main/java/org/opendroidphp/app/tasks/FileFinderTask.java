@@ -48,7 +48,9 @@ public class FileFinderTask extends ProgressDialogTask<Void, HashMap<Integer, Fi
     }
 
     @Override
-
+    /**
+     * Commented out deprecated code that causes build to fail in android studio
+     */
     protected Void doInBackground(Void... list) {
         Collection<File> listFiles = FileUtils.listFiles(file, extension, true);
         int i = 0;
