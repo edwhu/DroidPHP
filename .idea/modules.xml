@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DroidPHPGit.iml" filepath="$PROJECT_DIR$/DroidPHPGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DroidPHP_AndroidStudioPort.iml" filepath="$PROJECT_DIR$/DroidPHP_AndroidStudioPort.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/switchCompatLibrary/switchCompatLibrary.iml" filepath="$PROJECT_DIR$/switchCompatLibrary/switchCompatLibrary.iml" />
     </modules>

@@ -44,7 +44,7 @@ ADDED from AndroidManifest.xml:19:5
 MERGED from com.android.support:support-v4:22.0.0:20:5
 MERGED from com.actionbarsherlock:actionbarsherlock:4.4.0:3:3
 MERGED from eu.chainfire:libsuperuser:1.0.0.201504231659:7:5
-MERGED from DroidPHPGit:switchCompatLibrary:unspecified:7:5
+MERGED from DroidPHP_AndroidStudioPort:switchCompatLibrary:unspecified:7:5
 	tools:overrideLibrary
 		ADDED from AndroidManifest.xml:21:9
 	android:maxSdkVersion
