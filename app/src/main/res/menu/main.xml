@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/web_admin"
+        android:icon="@drawable/web_site"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/web_admin"
+        android:titleCondensed="@string/web_admin" />
+    <item
+        android:id="@+id/sql_admin"
+        android:icon="@drawable/memory"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/php_my_admin"
+        android:titleCondensed="@string/php_my_admin" />
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/settings"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/settings"
+        android:titleCondensed="@string/settings" />
+</menu>

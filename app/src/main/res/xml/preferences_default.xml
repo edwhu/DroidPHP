@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="CONFIGURATIONS">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="enable_lock_wifi"
+            android:summary="Keep wifi active when the server is running"
+            android:title="Lock Wifi" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="run_as_root"
+            android:summary="Execute server as SU"
+            android:title="Enable Root" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="enable_screen_on"
+            android:summary="The screen never enter sleep mode when the server is running"
+            android:title="Screen Always On" />
+    </PreferenceCategory>
+
+
+    <PreferenceCategory android:title="SERVICE">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="enable_server_on_boot"
+            android:summary="Launch web server service when the device (re)boots"
+            android:title="Start Web Server on Boot" />
+        <CheckBoxPreference
+
+            android:defaultValue="false"
+            android:key="enable_server_on_app_startup"
+            android:summary="Launch web server service when the application starts"
+            android:title="Start Web Server on Startup" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="WEB SERVER">
+        <EditTextPreference
+            android:defaultValue="8080"
+            android:dialogTitle="Change Port"
+            android:key="server_port"
+            android:summary="Click to change default port"
+            android:title="Update Port" />
+
+        <ListPreference
+            android:dialogTitle="Choose HTTP DAEMON"
+            android:entries="@array/server_engine_key"
+            android:entryValues="@array/server_engine_value"
+            android:key="use_server_httpd"
+            android:summary="Launch web server service with required http daemon"
+            android:title="Choose HTTP DAEMON" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="MYSQL SERVER">
+        <EditTextPreference
+            android:defaultValue="root"
+            android:dialogTitle="Choose username"
+            android:key="mysql_username"
+            android:summary="Click to change default mysql username"
+            android:title="Update Username" />
+        <EditTextPreference
+            android:defaultValue=""
+            android:dialogTitle="Choose password"
+            android:key="mysql_password"
+            android:summary="Click to change password for username"
+            android:title="Update Password" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="OTHERS">
+        <Preference
+            android:summary="Open a github repository"
+            android:title="GitHub">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://github.com/droidphp" />
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/org.opendroidphp"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fff2f2f2"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0"
+        android:background="#ffdedede">
+
+        <LinearLayout
+            android:id="@+id/home_fragment_base"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:padding="15.0dip">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/ll_enable_server"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50.0dip"
+                    android:background="@drawable/table_whole_bg_all"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="10.0dip"
+                        android:src="@drawable/ic_action_server" />
+
+
+                    <de.ankri.views.Switch
+                        android:id="@+id/sw_enable_server"
+                        style="@style/more_tv"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginLeft="7.0dip"
+                        android:enabled="false"
+                        app:textOff="@string/stopped"
+                        app:textOn="@string/running" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:contentDescription=""
+                        android:paddingRight="15.0dip"
+                        android:src="@drawable/next_grey" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20.0dip"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/ll_mysql_shell"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/table_whole_bg_all"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="50.0dip"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8.0dip"
+                            android:src="@drawable/ic_action_mysql" />
+
+                        <TextView
+                            android:id="@+id/tv_mysql_shell"
+                            style="@style/more_tv"
+                            android:layout_width="fill_parent"
+                            android:layout_marginLeft="6.0dip"
+                            android:padding="10.0dip"
+                            android:text="MySQL Shell" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="15.0dip"
+                            android:src="@drawable/next_grey" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20.0dip"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/ll_package"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/table_whole_bg_all"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="50.0dip"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8.0dip"
+                            android:src="@drawable/ic_cloud" />
+
+                        <TextView
+                            android:id="@+id/tv_package"
+                            style="@style/more_tv"
+                            android:layout_width="fill_parent"
+                            android:layout_marginLeft="6.0dip"
+                            android:padding="10.0dip"
+                            android:text="Package Manager" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="15.0dip"
+                            android:src="@drawable/next_grey" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20.0dip"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/ll_vhost"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/table_whole_bg_all"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="50.0dip"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8.0dip"
+                            android:src="@drawable/ic_action_server" />
+
+                        <TextView
+                            android:id="@+id/tv_conf_file"
+                            style="@style/more_tv"
+                            android:layout_width="fill_parent"
+                            android:layout_marginLeft="6.0dip"
+                            android:padding="10.0dip"
+                            android:text="Configurations" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="15.0dip"
+                            android:src="@drawable/next_grey" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="20.0dip"-->
+            <!--android:orientation="vertical">-->
+
+            <!--<LinearLayout-->
+            <!--android:id="@+id/ll_update"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@drawable/table_whole_bg_all"-->
+            <!--android:orientation="vertical">-->
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="50.0dip"-->
+            <!--android:gravity="center"-->
+            <!--android:orientation="horizontal">-->
+
+            <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:padding="8.0dip"-->
+            <!--android:src="@drawable/web_site" />-->
+
+            <!--<TextView-->
+            <!--android:id="@+id/tv_update"-->
+            <!--style="@style/more_tv"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_marginLeft="6.0dip"-->
+            <!--android:padding="10.0dip"-->
+            <!--android:text="Update" />-->
+
+            <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:paddingRight="15.0dip"-->
+            <!--android:src="@drawable/next_grey" />-->
+            <!--</LinearLayout>-->
+            <!--</LinearLayout>-->
+            <!--</LinearLayout>-->
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20.0dip"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/ll_about"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/table_whole_bg_all"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="50.0dip"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8.0dip"
+                            android:src="@drawable/ic_action_about" />
+
+                        <TextView
+                            android:id="@+id/tv_about"
+                            style="@style/more_tv"
+                            android:layout_width="fill_parent"
+                            android:layout_marginLeft="6.0dip"
+                            android:padding="10.0dip"
+                            android:text="About" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="15.0dip"
+                            android:src="@drawable/next_grey" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20.0dip"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/ll_uninstall"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/table_whole_bg_all"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="50.0dip"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8.0dip"
+                            android:src="@drawable/ic_action_about" />
+
+                        <TextView
+                            android:id="@+id/tv_uninstall"
+                            style="@style/more_tv"
+                            android:layout_width="fill_parent"
+                            android:layout_marginLeft="6.0dip"
+                            android:padding="10.0dip"
+                            android:text="Uninstall" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="15.0dip"
+                            android:src="@drawable/next_grey" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

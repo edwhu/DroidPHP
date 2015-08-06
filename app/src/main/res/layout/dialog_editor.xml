@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0"
+        android:background="#ffffffff"
+        android:clipToPadding="false"
+        android:fadingEdge="none"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/content"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffffff"
+            android:fadingEdge="none"
+            android:fontFamily="Courier"
+            android:gravity="top"
+            android:inputType="textMultiLine"
+            android:padding="5.0dip"
+            android:scrollbars="horizontal|vertical"
+            android:textSize="13.0sp" />
+    </ScrollView>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1.0dip"
+        android:background="#ffdddddd" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/positive"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_dialog"
+            android:minHeight="48.0dip"
+            android:textColor="#ff000000"
+            android:textSize="14.0sp" />
+
+        <View
+            android:layout_width="1.0dip"
+            android:layout_height="fill_parent"
+            android:background="#ffdddddd" />
+
+        <Button
+            android:id="@+id/negative"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_dialog"
+            android:minHeight="48.0dip"
+            android:textColor="#ff000000"
+            android:textSize="14.0sp" />
+    </LinearLayout>
+</LinearLayout>
