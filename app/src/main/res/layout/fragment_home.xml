@@ -32,17 +32,25 @@
                     android:gravity="center"
                     android:orientation="horizontal">
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:padding="10.0dip"
-                        android:src="@drawable/ic_action_server" />
+                    <!--<ImageView-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:padding="10.0dip"-->
+                        <!--android:src="@drawable/ic_action_server" />-->
 
+
+                    <TextView
+
+                        style="@style/more_tv"
+                        android:layout_width="wrap_content"
+                        android:layout_marginLeft="6.0dip"
+                        android:padding="10.0dip"
+                        android:text="Web Server" />
 
                     <de.ankri.views.Switch
                         android:id="@+id/sw_enable_server"
                         style="@style/more_tv"
-                        android:layout_width="fill_parent"
+                        android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_centerHorizontal="true"
                         android:layout_marginLeft="7.0dip"
