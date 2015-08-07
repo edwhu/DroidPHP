@@ -53,25 +53,25 @@ public class ServerService extends Service {
     protected void initialize() {
 
         Context context = getApplicationContext();
-       // NotificationManager noti = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
-        //Notification notification = new Notification(R.drawable.ic_launcher, "DroidPHP service started", System.currentTimeMillis());
+        NotificationManager noti = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
+        Notification notification = new Notification(R.drawable.ic_launcher, "DroidPHP service started", System.currentTimeMillis());
         CharSequence contentTitle = "DroidPHP";
         CharSequence contentText = "Web Service started";
 
-//        Intent notificationIntent = new Intent();
-//        PendingIntent contentIntent = PendingIntent.getActivity(
-//                getApplicationContext(), 0, notificationIntent, 0);
-//        notification.setLatestEventInfo(context, contentTitle, contentText,
-//                contentIntent);
-//
-//        noti.notify(143, notification);
+        Intent notificationIntent = new Intent();
+        PendingIntent contentIntent = PendingIntent.getActivity(
+                getApplicationContext(), 0, notificationIntent, 0);
+        notification.setLatestEventInfo(context, contentTitle, contentText,
+                contentIntent);
 
-//        if (preferences.getBoolean("enable_screen_on", false)) {
-//            PowerManager powerManager = (PowerManager) getSystemService(POWER_SERVICE);
-//            wakeLock = powerManager.newWakeLock(PowerManager.SCREEN_DIM_WAKE_LOCK, "DPScreenLock");
-//            wakeLock.acquire();
-//        }
-//
+        noti.notify(143, notification);
+
+        if (preferences.getBoolean("enable_screen_on", false)) {
+            PowerManager powerManager = (PowerManager) getSystemService(POWER_SERVICE);
+            wakeLock = powerManager.newWakeLock(PowerManager.SCREEN_DIM_WAKE_LOCK, "DPScreenLock");
+            wakeLock.acquire();
+        }
+
 //        if (preferences.getBoolean("enable_lock_wifi", false)) {
 //            /*  not implemented */
 //        }

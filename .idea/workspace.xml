@@ -1,175 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4366f499-5f2e-41c6-993b-8c353d91e8e9" name="Default" comment="commented code that causes build to fail&#10;">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-10cb2e48612b68875949fe307ecaefc82734a872.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-753fb946b7d5242b096b2bc1abde3080c613e53b.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-81776d15ac5e3c566966fb438dbac08ab3370eda.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-881f900b95cecac8f3e572ff2349eecbb5b046ff.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-80b52c1cc3821739406c928cfc85d3225984bdeb.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/tasks/FileFinderTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/tasks/FileFinderTask.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/services/ServerService$ServerBinder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/services/ServerService$ServerBinder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/services/ServerService.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/services/ServerService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/commons-io-2.4-18ede8074ecaeeb59f70a68c4d0bbdea3f782cbf.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/commons-io-2.4-18ede8074ecaeeb59f70a68c4d0bbdea3f782cbf.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/library-1.0.18-226ad36e02b221dbbe3e41f80447b7414d41990a.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/library-1.0.18-226ad36e02b221dbbe3e41f80447b7414d41990a.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/resources/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/outputs/aar/switchCompatLibrary-debug.aar" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/outputs/aar/switchCompatLibrary-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/outputs/aar/switchCompatLibrary-release.aar" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/outputs/aar/switchCompatLibrary-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-2838bd0856807a6fcdc5f1789db89ff04b7c32c5.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-2838bd0856807a6fcdc5f1789db89ff04b7c32c5.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_bar_home.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_bar_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_bar_tab.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_bar_tab.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_bar_tab_bar_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_bar_tab_bar_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_bar_title_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_bar_title_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_menu_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_menu_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_mode_bar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_mode_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_mode_close_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__action_mode_close_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-large/abs__action_mode_close_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-large/abs__action_mode_close_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__activated_background_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__activated_background_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__activated_background_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__activated_background_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__activity_chooser_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__activity_chooser_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__activity_chooser_view_list_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__activity_chooser_view_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__btn_cab_done_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__btn_cab_done_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__btn_cab_done_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__btn_cab_done_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__ic_clear.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__ic_clear.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__ic_clear_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__ic_clear_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__ic_menu_moreoverflow_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__ic_menu_moreoverflow_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__ic_menu_moreoverflow_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__ic_menu_moreoverflow_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__item_background_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__item_background_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__item_background_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__item_background_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__list_menu_item_checkbox.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__list_menu_item_checkbox.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__list_menu_item_icon.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__list_menu_item_icon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__list_menu_item_radio.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__list_menu_item_radio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__list_selector_background_transition_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__list_selector_background_transition_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__list_selector_background_transition_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__list_selector_background_transition_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__list_selector_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__list_selector_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__list_selector_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__list_selector_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__popup_menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__popup_menu_item_layout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/color/abs__primary_text_disable_only_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/color/abs__primary_text_disable_only_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/color/abs__primary_text_disable_only_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/color/abs__primary_text_disable_only_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/color/abs__primary_text_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/color/abs__primary_text_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/color/abs__primary_text_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/color/abs__primary_text_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__progress_horizontal_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__progress_horizontal_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__progress_horizontal_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__progress_horizontal_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__progress_medium_holo.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__progress_medium_holo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-v11/abs__progress_medium_holo.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable-v11/abs__progress_medium_holo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__screen_action_bar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__screen_action_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-xlarge/abs__screen_action_bar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-xlarge/abs__screen_action_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__screen_action_bar_overlay.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__screen_action_bar_overlay.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-xlarge/abs__screen_action_bar_overlay.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-xlarge/abs__screen_action_bar_overlay.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__screen_simple.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__screen_simple.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__screen_simple_overlay_action_mode.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__screen_simple_overlay_action_mode.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__search_dropdown_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__search_dropdown_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__search_dropdown_item_icons_2line.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__search_dropdown_item_icons_2line.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__search_dropdown_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__search_dropdown_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__search_view.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__search_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__simple_dropdown_hint.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/abs__simple_dropdown_hint.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__spinner_ab_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__spinner_ab_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__spinner_ab_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__spinner_ab_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__tab_indicator_ab_holo.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__tab_indicator_ab_holo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__textfield_searchview_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__textfield_searchview_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__textfield_searchview_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__textfield_searchview_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__textfield_searchview_right_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__textfield_searchview_right_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__textfield_searchview_right_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/abs__textfield_searchview_right_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/actionbarsherlock_4_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/actionbarsherlock_4_4_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/btn_dialog.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/btn_dialog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/btn_selector.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/btn_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/center_bg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/center_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/counter_bg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/counter_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/create_host.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/create_host.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/dialog_editor.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/dialog_editor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/dialog_holo.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/dialog_holo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/dialog_progress_holo.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/dialog_progress_holo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/file_list_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/file_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_about.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_about.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_file.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_file.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_home.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_mysql.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_mysql.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_repository.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_repository.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/item_xbg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/item_xbg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/items_1_bg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/items_1_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/items_2_bg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/items_2_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/libsuperuser_1_0_0_201504231659.xml" afterPath="$PROJECT_DIR$/.idea/libraries/libsuperuser_1_0_0_201504231659.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_download_btn_xbg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_download_btn_xbg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_item_background.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_item_background.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_item_bg_normal.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_item_bg_normal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_item_bg_pressed.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_item_bg_pressed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_row_bg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_row_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_row_bg_hover.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_row_bg_hover.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_row_selector.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_row_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_selector.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/list_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/anim/loading_small.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/anim/loading_small.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/menu/main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/mergeAssets/release/merger.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/mergeAssets/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/packageResources/debug/merger.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/packageResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/packageResources/release/merger.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/incremental/packageResources/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/new_indicator.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/new_indicator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/octocat_scaled.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/octocat_scaled.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/xml/preferences_default.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/xml/preferences_default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/repository_list_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/repository_list_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/shadow.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/shadow.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/shadowright.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/shadowright.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/sherlock_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/sherlock_spinner_dropdown_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-v14/sherlock_spinner_dropdown_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-v14/sherlock_spinner_dropdown_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/sherlock_spinner_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/sherlock_spinner_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-v14/sherlock_spinner_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout-v14/sherlock_spinner_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/anim/slide_left_in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/anim/slide_left_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/anim/slide_left_out.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/anim/slide_left_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/anim/slide_right_in.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/anim/slide_right_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/anim/slide_right_out.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/anim/slide_right_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/spinner.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/spinner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/spinner_wheel.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/spinner_wheel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/switchCompatLibrary.iml" afterPath="$PROJECT_DIR$/switchCompatLibrary/switchCompatLibrary.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/switch_inner_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/switch_inner_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_inner_holo_dark.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_inner_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/res/drawable/switch_inner_holo_dark.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/res/drawable/switch_inner_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/res/androidTest/debug/drawable/switch_inner_holo_dark.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/res/androidTest/debug/drawable/switch_inner_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/switch_inner_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/switch_inner_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_inner_holo_light.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_inner_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/res/drawable/switch_inner_holo_light.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/res/drawable/switch_inner_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/res/androidTest/debug/drawable/switch_inner_holo_light.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/res/androidTest/debug/drawable/switch_inner_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/switch_track_holo_dark.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/switch_track_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_track_holo_dark.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_track_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/res/drawable/switch_track_holo_dark.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/res/drawable/switch_track_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/res/androidTest/debug/drawable/switch_track_holo_dark.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/res/androidTest/debug/drawable/switch_track_holo_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/switch_track_holo_light.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/switch_track_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_track_holo_light.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_track_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/res/drawable/switch_track_holo_light.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/res/drawable/switch_track_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/res/androidTest/debug/drawable/switch_track_holo_light.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/res/androidTest/debug/drawable/switch_track_holo_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/table_whole_bg_all.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/table_whole_bg_all.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/title_bg.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/drawable/title_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-land/values-land.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-land/values-land.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-large-hdpi-1024x600/values-large-hdpi-1024x600.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-large-hdpi-1024x600/values-large-hdpi-1024x600.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-large-land-hdpi-1024x600/values-large-land-hdpi-1024x600.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-large-land-hdpi-1024x600/values-large-land-hdpi-1024x600.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-large-land-mdpi-1024x600/values-large-land-mdpi-1024x600.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-large-land-mdpi-1024x600/values-large-land-mdpi-1024x600.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-large-mdpi-1024x600/values-large-mdpi-1024x600.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-large-mdpi-1024x600/values-large-mdpi-1024x600.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-sw600dp/values-sw600dp.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-sw600dp/values-sw600dp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-v14/values-v14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-w360dp/values-w360dp.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-w360dp/values-w360dp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-w480dp/values-w480dp.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-w480dp/values-w480dp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-w500dp/values-w500dp.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-w500dp/values-w500dp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-w600dp/values-w600dp.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-w600dp/values-w600dp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-xlarge/values-xlarge.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-xlarge/values-xlarge.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/res/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/switchCompatLibrary/build/intermediates/res/androidTest/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/waiting_dialog.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/waiting_dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/tasks/FileFinderTask.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/tasks/FileFinderTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/services/ServerService.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/services/ServerService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DroidPHP_AndroidStudioPort.iws" />
@@ -195,57 +57,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/services/ServerService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/QueryFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PackageFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/PackageFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ManageFileFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/ManageFileFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/HomeFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileListAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/adapter/FileListAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -254,31 +66,8 @@
       <file leaf-file-name="FileFinderTask.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/tasks/FileFinderTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68765134">
-              <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-              <folding>
-                <element signature="e#1216#1237#0" expanded="true" />
-                <element signature="e#1239#1262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/FileFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BackgroundIntentService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/services/BackgroundIntentService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.85472155">
+              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -2470,8 +2259,10 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2674,8 +2465,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2685,6 +2474,8 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="recentsLimit" value="5" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="2bb9ecc9" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_22_x86" />
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2830,7 +2621,7 @@
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
@@ -2892,35 +2683,35 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2937,30 +2728,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/tasks/ProgressDialogTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/FileFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/services/BackgroundIntentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/services/ServerService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3011,12 +2778,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/tasks/FileFinderTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68765134">
-          <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-          <folding>
-            <element signature="e#1216#1237#0" expanded="true" />
-            <element signature="e#1239#1262#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/FileFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/services/BackgroundIntentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/services/BackgroundIntentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/adapter/FileListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/HomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/ManageFileFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/PackageFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/QueryFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/FileFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/tasks/ProgressDialogTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7627119">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/tasks/RepoDownloaderTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.486683">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/adapter/RepositoryListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3801453">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/services/ServerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/tasks/FileFinderTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85472155">
+          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

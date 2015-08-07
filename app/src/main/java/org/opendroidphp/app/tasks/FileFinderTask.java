@@ -67,7 +67,7 @@ public class FileFinderTask extends ProgressDialogTask<Void, HashMap<Integer, Fi
                 fileEvent.onError(e);
             }
         }
-      //  publishProgress(map);
+        publishProgress(map);
         return null;
     }
 
