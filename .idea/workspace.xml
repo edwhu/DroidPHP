@@ -10,100 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4366f499-5f2e-41c6-993b-8c353d91e8e9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/actionbarsherlock_4_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/commons_io_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/library_1_0_18.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/libsuperuser_1_0_0_201504231659.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes-b20f9d0bc9c170da453fda070f44cd3123e9118b.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-812029276a7f0d291537766402945dfaaec93a64.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-2838bd0856807a6fcdc5f1789db89ff04b7c32c5.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/AboutFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/AboutFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/tasks/CommandTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/tasks/CommandTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/fragments/dialogs/ConfirmDialogFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/fragments/dialogs/ConfirmDialogFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/ConsoleActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/ConsoleActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/fragments/dialogs/DialogHelpers.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/fragments/dialogs/DialogHelpers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/fragments/dialogs/EditorDialogFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/fragments/dialogs/EditorDialogFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/tasks/FileFinderTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/tasks/FileFinderTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/FileFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/FileFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/adapter/FileListAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/adapter/FileListAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/HomeFragment$AsyncSystemRequirement.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/HomeFragment$AsyncSystemRequirement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/HomeFragment$ConnectionListenerTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/HomeFragment$ConnectionListenerTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/HomeFragment$ServerListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/HomeFragment$ServerListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/HomeFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/HomeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/ManageFileFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/ManageFileFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/PackageFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/PackageFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/tasks/ProgressDialogTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/tasks/ProgressDialogTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/QueryFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/QueryFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$anim.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$array.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$array.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/de/ankri/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/de/ankri/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/de/ankri/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/de/ankri/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/de/ankri/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/de/ankri/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/actionbarsherlock/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/de/ankri/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/de/ankri/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$xml.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/tasks/RepoInstallerTask.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/tasks/RepoInstallerTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/adapter/RepositoryListAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/adapter/RepositoryListAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/SettingActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/opendroidphp/app/ui/SettingActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/gradle_project_sync_data.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/resources/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/HomeFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/opendroidphp/app/ui/HomeFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/actionbarsherlock/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/actionbarsherlock/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/de/ankri/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/de/ankri/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/org/opendroidphp/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/org/opendroidphp/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_home.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/layout/fragment_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="4366f499-5f2e-41c6-993b-8c353d91e8e9" name="Default" comment="Edited switch size and added in description to Webserver bar" />
     <ignored path="DroidPHP_AndroidStudioPort.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,8 +53,8 @@
       <file leaf-file-name="FullscreenActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/teachervirus/src/main/java/org/oatsea/teachervirus/FullscreenActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2905569">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.8716707">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -3938,8 +3845,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/teachervirus/src/main/java/org/oatsea/teachervirus/FullscreenActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2905569">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.8716707">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding />
         </state>
       </provider>
