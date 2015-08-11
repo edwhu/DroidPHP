@@ -90,9 +90,9 @@
 
                         <ImageView
                             android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
+                            android:layout_height="match_parent"
                             android:padding="8.0dip"
-                            android:src="@drawable/ic_cloud" />
+                            android:src="@drawable/ic_bug_report_black_24dp"/>
 
                         <TextView
                             android:id="@+id/tv_virus"
@@ -134,7 +134,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="8.0dip"
-                            android:src="@drawable/ic_action_mysql" />
+                            android:src="@drawable/ic_computer_black_24dp" />
 
                         <TextView
                             android:id="@+id/tv_mysql_shell"
@@ -176,7 +176,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="8.0dip"
-                            android:src="@drawable/ic_cloud" />
+                            android:src="@drawable/ic_folder_open_black_24dp" />
 
                         <TextView
                             android:id="@+id/tv_package"
@@ -218,7 +218,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="8.0dip"
-                            android:src="@drawable/ic_action_server" />
+                            android:src="@drawable/ic_backup_black_24dp" />
 
                         <TextView
                             android:id="@+id/tv_conf_file"
@@ -260,7 +260,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="8.0dip"
-                            android:src="@drawable/ic_action_about" />
+                            android:src="@drawable/ic_info_black_24dp" />
 
                         <TextView
                             android:id="@+id/tv_about"
@@ -302,7 +302,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:padding="8.0dip"
-                            android:src="@drawable/ic_action_about" />
+                            android:src="@drawable/ic_info_black_24dp" />
 
                         <TextView
                             android:id="@+id/tv_uninstall"

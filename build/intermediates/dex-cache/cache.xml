@@ -2,11 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jar="/Users/edward/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/pre-dexed/debug/classes-89cdda1a2f20d063e745810c38ab2548447c2f8f.jar" />
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/pre-dexed/debug/library-1.0.18-226ad36e02b221dbbe3e41f80447b7414d41990a.jar" />
+    </item>
+    <item
+        jar="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/eu.chainfire/libsuperuser/1.0.0.201504231659/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="930158334c20042becc855691f130f12b9a5ea47">
+        <dex dex="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/pre-dexed/debug/classes-e32a7655c38e74a80ffce9f703359ee303db2beb.jar" />
+    </item>
+    <item
+        jar="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/pre-dexed/debug/classes-67d1d1cf97b8810b62f76c1d351eac2b86d9426a.jar" />
+    </item>
+    <item
+        jar="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/switchCompatLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="641abbc0102fdae9c2a383ffe3e6715af7b9640f">
+        <dex dex="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/pre-dexed/debug/classes-86ab28638e8a5e7eadd72fee06b30c6f316367be.jar" />
     </item>
     <item
         jar="/Users/edward/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
@@ -23,10 +44,24 @@
         <dex dex="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-6876a332ee25b74d1bc889a8038f1b37df5b3bc6.jar" />
     </item>
     <item
+        jar="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/pre-dexed/debug/classes-89cdda1a2f20d063e745810c38ab2548447c2f8f.jar" />
+    </item>
+    <item
+        jar="/Users/edward/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/pre-dexed/debug/commons-io-2.4-18ede8074ecaeeb59f70a68c4d0bbdea3f782cbf.jar" />
+    </item>
+    <item
         jar="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="4f8f34c7bb4bcc05ac8306a3b1dc1afe34a2e639">
+        sha1="52f5af2845e225da5f95b9e23f8594bf7bf1eca5">
         <dex dex="/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/pre-dexed/debug/classes-366775dc5031aae762a32a90a2d437c137dfe678.jar" />
     </item>
 
