@@ -20,4 +20,4 @@
     <item android:state_checked="true"  android:drawable="@drawable/switch_thumb_activated_holo_dark" />
     <item                               android:drawable="@drawable/switch_thumb_holo_dark" />
 </selector>
-<!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/drawable/switch_inner_holo_dark.xml -->
+<!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/drawable/switch_inner_holo_dark.xml -->

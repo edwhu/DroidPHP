@@ -37,4 +37,4 @@
     <item
         android:drawable="@drawable/loading_12_36x36"
         android:duration="150" />
-</animation-list><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/anim/loading_small.xml -->
+</animation-list><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/anim/loading_small.xml -->

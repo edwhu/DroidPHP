@@ -13,4 +13,4 @@
         android:dividerHeight="1dp"
         android:listSelector="@drawable/list_row_selector" />
 
-</LinearLayout><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/layout/fragment_repository.xml -->
+</LinearLayout><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/layout/fragment_repository.xml -->

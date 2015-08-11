@@ -19,4 +19,4 @@
         android:showAsAction="ifRoom|withText"
         android:title="@string/settings"
         android:titleCondensed="@string/settings" />
-</menu><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/menu/main.xml -->
+</menu><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/menu/main.xml -->

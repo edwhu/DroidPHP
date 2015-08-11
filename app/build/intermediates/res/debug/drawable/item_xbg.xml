@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/item_xbg_pressed" android:state_pressed="true" />
     <item android:drawable="@drawable/item_xbg_pressed" android:state_focused="true" />
     <item android:drawable="@drawable/item_xbg_drawable" />
-</selector><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/item_xbg.xml -->
+</selector><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/item_xbg.xml -->

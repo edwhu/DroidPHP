@@ -18,4 +18,4 @@
     <item android:state_focused="true"  android:drawable="@drawable/switch_bg_focused_holo_light" />
     <item                               android:drawable="@drawable/switch_bg_holo_light" />
 </selector>
-<!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/drawable/switch_track_holo_light.xml --><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_track_holo_light.xml -->
+<!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/drawable/switch_track_holo_light.xml --><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_track_holo_light.xml -->

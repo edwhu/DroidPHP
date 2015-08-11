@@ -3,4 +3,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/switch_bg_focused_holo_light" android:state_focused="true" />
     <item android:drawable="@drawable/switch_bg_holo_light" />
-</selector><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/switch_track_holo_light.xml -->
+</selector><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/switch_track_holo_light.xml -->

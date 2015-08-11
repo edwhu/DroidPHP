@@ -3,4 +3,4 @@
     <item android:drawable="@drawable/btn_down" android:state_focused="true" />
     <item android:drawable="@drawable/btn_down" android:state_pressed="true" />
     <item android:drawable="@drawable/btn" />
-</selector><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/btn_selector.xml -->
+</selector><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/btn_selector.xml -->

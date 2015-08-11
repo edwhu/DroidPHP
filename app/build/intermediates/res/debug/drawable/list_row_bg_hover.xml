@@ -7,4 +7,4 @@
         android:endColor="@color/list_row_hover_end_color"
         android:startColor="@color/list_row_hover_start_color" />
 
-</shape><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/list_row_bg_hover.xml -->
+</shape><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/list_row_bg_hover.xml -->

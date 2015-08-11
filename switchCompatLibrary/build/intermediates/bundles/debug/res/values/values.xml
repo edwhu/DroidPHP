@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/values/attrs.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/values/attrs.xml -->
     <eat-comment/>
     <attr format="reference" name="switchStyle"/>
     <attr format="reference" name="textAppearance"/>
     <declare-styleable name="Switch"><attr format="reference" name="thumb"/><attr format="reference" name="track"/><attr format="string" name="textOn"/><attr format="string" name="textOff"/><attr format="dimension" name="thumbTextPadding"/><attr format="reference" name="switchTextAppearance"/><attr format="dimension" name="switchMinWidth"/><attr format="dimension" name="switchPadding"/></declare-styleable>
     <declare-styleable name="TextAppearanceSwitch"><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="reference" name="textStyle"/><attr format="reference" name="typeface"/><attr format="reference" name="fontFamily"/><attr format="color" name="textColorHighlight"/><attr format="color" name="textColorHint"/><attr format="color" name="textColorLink"/><attr format="boolean" name="textAllCaps"/></declare-styleable>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="textOff">OFF</string>
     <string name="textOn">ON</string>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/values/themes.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/values/themes.xml -->
     <eat-comment/>
     <style name="AppThemeDark" parent="@android:style/Theme.DeviceDefault">
 		<item name="switchStyle">@style/switch_dark</item>
@@ -20,7 +20,7 @@
 		<item name="switchStyle">@style/switch_light</item>
 		<item name="textAppearance">@style/TextAppearance</item>
 	</style>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="TextAppearance">
         <item name="textColor">?android:attr/textColorPrimary</item>

@@ -5,4 +5,4 @@
         android:angle="270"
         android:endColor="@color/list_row_end_color"
         android:startColor="@color/list_row_start_color" />
-</shape><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/list_row_bg.xml -->
+</shape><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/list_row_bg.xml -->

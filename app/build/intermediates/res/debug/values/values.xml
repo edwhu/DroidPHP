@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/arrays.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/arrays.xml -->
     <eat-comment/>
     <string-array name="mysql_engine">
         <item>MyISAM</item>
@@ -30,18 +30,18 @@
         <item>lighttpd</item>
         <item>nginx</item>
     </string-array>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference|color" name="background"/>
     <attr format="reference|color" name="backgroundSplit"/>
     <attr format="reference" name="divider"/>
     <attr format="dimension" name="height"/>
     <attr format="reference" name="subtitleTextStyle"/>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/switchCompatLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/switchCompatLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="switchStyle"/>
     <attr format="reference" name="textAppearance"/>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="titleTextStyle"/>
     <bool name="abs__action_bar_embed_tabs">false</bool>
@@ -50,14 +50,14 @@
     <bool name="abs__config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abs__config_showMenuShortcutsWhenKeyboardPresent">false</bool>
     <bool name="abs__split_action_bar_is_narrow">true</bool>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <item name="about_mail_text_color" type="color">@color/common_deep_gray_on_blue</item>
     <item name="about_subtitle_text_color" type="color">@color/common_deep_gray_on_blue</item>
     <color name="about_title_text_color">#ffffffff</color>
     <color name="about_version_bg_color">#ff3bb9fc</color>
     <color name="about_version_text_color">#ffffffff</color>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <color name="abs__background_holo_dark">#ff000000</color>
     <color name="abs__background_holo_light">#fff3f3f3</color>
@@ -65,17 +65,17 @@
     <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</color>
     <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</color>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="background">#F9F9F9</color>
     <color name="background_dark">#ff000000</color>
     <color name="background_light">#ffffffff</color>
     <color name="background_selected">#E8E8E8</color>
     <color name="black">#000</color>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="black_overlay">#66000000</color>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="blue">#009</color>
     <color name="bright_foreground_dark">@color/background_light</color>
@@ -137,7 +137,7 @@
     <declare-styleable name="SherlockView"><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="Switch"><attr format="reference" name="thumb"/><attr format="reference" name="track"/><attr format="string" name="textOn"/><attr format="string" name="textOff"/><attr format="dimension" name="thumbTextPadding"/><attr format="reference" name="switchTextAppearance"/><attr format="dimension" name="switchMinWidth"/><attr format="dimension" name="switchPadding"/></declare-styleable>
     <declare-styleable name="TextAppearanceSwitch"><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="reference" name="textStyle"/><attr format="reference" name="typeface"/><attr format="reference" name="fontFamily"/><attr format="color" name="textColorHighlight"/><attr format="color" name="textColorHint"/><attr format="color" name="textColorLink"/><attr format="boolean" name="textAllCaps"/></declare-styleable>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="about_button_margin_left_right">45.0dip</dimen>
     <dimen name="about_copyright_margin_bottom">12.0dip</dimen>
@@ -151,7 +151,7 @@
     <dimen name="about_title_version_margin">6.0dip</dimen>
     <dimen name="about_version_bg_height_width">21.0dip</dimen>
     <dimen name="about_version_text_size">12.0sp</dimen>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abs__action_bar_default_height">48dip</dimen>
     <dimen name="abs__action_bar_icon_vertical_padding">8dip</dimen>
@@ -166,7 +166,7 @@
     <dimen name="abs__dropdownitem_text_padding_right">8dip</dimen>
     <dimen name="abs__search_view_preferred_width">320dip</dimen>
     <dimen name="abs__search_view_text_min_width">160dip</dimen>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="common_text_size_large">18.0dip</dimen>
     <dimen name="common_text_size_middle">15.0dip</dimen>
@@ -177,13 +177,13 @@
     <dimen name="list_padding">10dp</dimen>
     <dimen name="shadow_width">12dp</dimen>
     <dimen name="slidingmenu_offset">60dp</dimen>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/drawables.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/drawables.xml -->
     <eat-comment/>
     <item name="item_xbg_drawable" type="drawable">#fff2f2f2</item>
     <item name="item_xbg_pressed" type="drawable">#ffe8e8e8</item>
     <item name="list_download_nope" type="drawable">#00000000</item>
     <item name="list_download_pressed" type="drawable">#ffdde2e6</item>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <item name="abs__action_menu_divider" type="id"/>
     <item name="abs__action_menu_presenter" type="id"/>
@@ -192,10 +192,10 @@
     <item name="abs__progress_horizontal" type="id"/>
     <item name="abs__up" type="id"/>
     <integer name="abs__max_action_buttons">2</integer>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <integer name="num_cols">1</integer>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="about">About</string>
     <string name="about_app">"Turn your Android devices into a web and database server with DroidPHP, a suite of web developer. This application has been designed for low memory consumption and CPU usage, specially used for smartphone and tablet. Hey, it's free and you don't need a root access to run DroidPHP.
@@ -209,7 +209,7 @@
     <string name="about_share_friends">Share</string>
     <string name="about_us_privacy_policy">Privacy policy</string>
     <string name="about_us_rights">Copyright © DroidPHP</string>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <string name="abs__action_bar_home_description">Navigate home</string>
     <string name="abs__action_bar_up_description">Navigate up</string>
@@ -224,7 +224,7 @@
     <string name="abs__searchview_description_voice">Voice search</string>
     <string name="abs__shareactionprovider_share_with">Share with</string>
     <string name="abs__shareactionprovider_share_with_application">Share with <ns1:g example="Bluetooth" id="application_name">%s</ns1:g></string>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">DroidPHP</string>
     <string name="cancel">Cancel</string>
@@ -254,11 +254,11 @@
     </string>
     <string name="device_status">Device Status</string>
     <string name="dont_install">"Don't Install"</string>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="exception_msg">Something went wrong, please reinstall DroidPHP!</string>
     <string name="extension">Extension</string>
@@ -323,12 +323,12 @@
     <string name="web_server_not_running">Web server not running!</string>
     <string name="welcome">Welcome page</string>
     <string name="yes">Yes</string>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="android:Theme.Holo.Light">
         <!-- Customize your theme here. -->
     </style>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppThemeDark" parent="android:style/Theme.DeviceDefault">
         <item name="switchStyle">@style/switch_dark</item>
@@ -338,7 +338,7 @@
         <item name="switchStyle">@style/switch_light</item>
         <item name="textAppearance">@style/TextAppearance</item>
     </style>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="ButtonBar">
         <item name="android:paddingLeft">2dp</item>
@@ -354,14 +354,14 @@
         <item name="metaButtonBarStyle">@style/ButtonBar</item>
         <item name="metaButtonBarButtonStyle">@style/ButtonBarButton</item>
     </style>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="HeaderTitleText" parent="TitleText">
         <item name="android:paddingLeft">10dp</item>
         <item name="android:singleLine">true</item>
     </style>
     <style name="ListTitleText" parent="TitleText"/>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Sherlock.__TextAppearance.Small" parent="Widget">
         <item name="android:textSize">14sp</item>
@@ -427,7 +427,7 @@
         <item name="android:completionThreshold">2</item>
         <item name="android:dropDownWidth">wrap_content</item>
     </style>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="TextAppearance">
         <item name="textColor">?android:textColorPrimary</item>
@@ -436,7 +436,7 @@
         <item name="textColorHint">?android:textColorHint</item>
         <item name="textColorLink">?android:textColorLink</item>
     </style>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.Sherlock" parent="@android:style/TextAppearance"/>
     <style name="TextAppearance.Sherlock.Light.SearchResult" parent="TextAppearance.Sherlock.SearchResult"/>
@@ -524,7 +524,7 @@
         <item name="android:textSize">16sp</item>
         <item name="android:textStyle">normal</item>
     </style>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="Theme.DroidPHP" parent="@style/Theme.Sherlock.Light">
         <item name="switchStyle">@style/Theme.DroidPHP.Switcher</item>
@@ -563,7 +563,7 @@
         <item name="textColorHint">?android:textColorHint</item>
         <item name="textColorLink">?android:textColorLink</item>
     </style>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.Sherlock" parent="Sherlock.__Theme">
 
@@ -741,7 +741,7 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="TitleText">
         <item name="android:textSize">17sp</item>
@@ -752,7 +752,7 @@
         <item name="android:layout_width">wrap_content</item>
     </style>
     <style name="Widget"/>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.Sherlock.ActionBar" parent="Sherlock.__Widget.ActionBar">
         <item name="titleTextStyle">@style/TextAppearance.Sherlock.Widget.ActionBar.Title</item>
@@ -954,7 +954,7 @@
         <item name="android:paddingLeft">8dp</item>
         <item name="android:paddingRight">8dp</item>
     </style>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="loading_progressbar">
         <item name="android:maxWidth">36.0dip</item>

@@ -56,6 +56,10 @@ public class HomeFragment extends SherlockFragment implements View.OnClickListen
         }
     }
 
+    /**
+     * Creates DroidPHP activity, turns on Webserver, then starts the TV activity
+     * @param savedInstanceState
+     */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -63,6 +67,26 @@ public class HomeFragment extends SherlockFragment implements View.OnClickListen
         preferences = PreferenceManager.
                 getDefaultSharedPreferences(getSherlockActivity());
         new AsyncSystemRequirement().execute();
+        boolean enableSU = preferences.getBoolean("run_as_root", false);
+        String execName = preferences.getString("use_server_httpd", "lighttpd");
+        String bindPort = preferences.getString("server_port", "8080");
+
+        try {
+            context.startService(new Intent(context, ServerService.class));
+            CommandTask task = CommandTask.createForConnect(context, execName, bindPort);
+            task.enableSU(enableSU);
+            task.execute();
+        }
+        catch(Exception e){
+            CommandTask task = CommandTask.createForDisconnect(context);
+            task.enableSU(enableSU);
+            task.execute();
+
+            NotificationManager notify = (NotificationManager) context.
+                    getSystemService(Context.NOTIFICATION_SERVICE);
+            notify.cancel(143);
+        }
+        startActivity(new Intent("org.oatsea.teachervirus.FullscreenActivity"));
     }
 
     @Override

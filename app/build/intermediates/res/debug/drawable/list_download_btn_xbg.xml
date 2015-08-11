@@ -3,4 +3,4 @@
     <item android:drawable="@drawable/list_download_pressed" android:state_pressed="true" />
     <item android:drawable="@drawable/list_download_pressed" android:state_focused="true" />
     <item android:drawable="@drawable/list_download_nope" />
-</selector><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/list_download_btn_xbg.xml -->
+</selector><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/list_download_btn_xbg.xml -->

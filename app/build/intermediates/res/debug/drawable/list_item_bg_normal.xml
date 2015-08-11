@@ -4,4 +4,4 @@
         android:angle="90"
         android:endColor="@color/list_background"
         android:startColor="@color/list_background" />
-</shape><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/list_item_bg_normal.xml -->
+</shape><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/drawable/list_item_bg_normal.xml -->

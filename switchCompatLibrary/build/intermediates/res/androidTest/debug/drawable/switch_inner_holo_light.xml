@@ -20,4 +20,4 @@
     <item android:state_checked="true"  android:drawable="@drawable/switch_thumb_activated_holo_light" />
     <item                               android:drawable="@drawable/switch_thumb_holo_light" />
 </selector>
-<!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/drawable/switch_inner_holo_light.xml --><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_inner_holo_light.xml -->
+<!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/switchCompatLibrary/src/main/res/drawable/switch_inner_holo_light.xml --><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/switchCompatLibrary/build/intermediates/bundles/debug/res/drawable/switch_inner_holo_light.xml -->

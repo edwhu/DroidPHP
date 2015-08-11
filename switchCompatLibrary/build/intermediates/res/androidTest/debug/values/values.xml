@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/switchCompatLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/switchCompatLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="switchStyle"/>
     <attr format="reference" name="textAppearance"/>

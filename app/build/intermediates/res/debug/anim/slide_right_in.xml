@@ -4,4 +4,4 @@
         android:duration="200"
         android:fromXDelta="-100.0%p"
         android:toXDelta="0.0" />
-</set><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/anim/slide_right_in.xml -->
+</set><!-- From: file:/Users/edward/Projects/DroidPHP_AndroidStudioPort/app/src/main/res/anim/slide_right_in.xml -->
