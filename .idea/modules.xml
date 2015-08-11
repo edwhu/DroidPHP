@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DroidPHP_AndroidStudioPort.iml" filepath="$PROJECT_DIR$/DroidPHP_AndroidStudioPort.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/switchCompatLibrary/switchCompatLibrary.iml" filepath="$PROJECT_DIR$/switchCompatLibrary/switchCompatLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teachervirus/teachervirus.iml" filepath="$PROJECT_DIR$/teachervirus/teachervirus.iml" />
     </modules>
   </component>
 </project>

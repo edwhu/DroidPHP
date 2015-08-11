@@ -12,6 +12,7 @@
         android:layout_weight="1.0"
         android:background="#ffdedede">
 
+
         <LinearLayout
             android:id="@+id/home_fragment_base"
             android:layout_width="fill_parent"
@@ -19,6 +20,7 @@
             android:orientation="vertical"
             android:padding="15.0dip">
 
+            <!-- webserver-->
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -66,7 +68,49 @@
                         android:src="@drawable/next_grey" />
                 </LinearLayout>
             </LinearLayout>
+            <!-- teacher virus-->
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20.0dip"
+                android:orientation="vertical">
 
+                <LinearLayout
+                    android:id="@+id/ll_teacher_virus"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/table_whole_bg_all"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="50.0dip"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8.0dip"
+                            android:src="@drawable/ic_cloud" />
+
+                        <TextView
+                            android:id="@+id/tv_virus"
+                            style="@style/more_tv"
+                            android:layout_width="fill_parent"
+                            android:layout_marginLeft="6.0dip"
+                            android:padding="10.0dip"
+                            android:text="Teacher Virus" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="15.0dip"
+                            android:src="@drawable/next_grey" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <!--shell-->
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -108,8 +152,7 @@
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
-
-
+            <!-- package manager-->
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -151,7 +194,7 @@
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
-
+            <!-- config-->
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -193,51 +236,7 @@
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
-
-
-            <!--<LinearLayout-->
-            <!--android:layout_width="fill_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_marginTop="20.0dip"-->
-            <!--android:orientation="vertical">-->
-
-            <!--<LinearLayout-->
-            <!--android:id="@+id/ll_update"-->
-            <!--android:layout_width="fill_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:background="@drawable/table_whole_bg_all"-->
-            <!--android:orientation="vertical">-->
-
-            <!--<LinearLayout-->
-            <!--android:layout_width="fill_parent"-->
-            <!--android:layout_height="50.0dip"-->
-            <!--android:gravity="center"-->
-            <!--android:orientation="horizontal">-->
-
-            <!--<ImageView-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:padding="8.0dip"-->
-            <!--android:src="@drawable/web_site" />-->
-
-            <!--<TextView-->
-            <!--android:id="@+id/tv_update"-->
-            <!--style="@style/more_tv"-->
-            <!--android:layout_width="fill_parent"-->
-            <!--android:layout_marginLeft="6.0dip"-->
-            <!--android:padding="10.0dip"-->
-            <!--android:text="Update" />-->
-
-            <!--<ImageView-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:paddingRight="15.0dip"-->
-            <!--android:src="@drawable/next_grey" />-->
-            <!--</LinearLayout>-->
-            <!--</LinearLayout>-->
-            <!--</LinearLayout>-->
-
-
+            <!-- about-->
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -279,8 +278,7 @@
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
-
-
+            <!-- uninstall-->
             <LinearLayout
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -323,7 +321,9 @@
                 </LinearLayout>
             </LinearLayout>
 
+
         </LinearLayout>
+
     </ScrollView>
 
 </LinearLayout><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/layout/fragment_home.xml -->

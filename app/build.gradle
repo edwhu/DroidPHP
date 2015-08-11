@@ -25,4 +25,5 @@ dependencies {
     compile 'eu.chainfire:libsuperuser:1.0.0.+'
     compile 'commons-io:commons-io:+'
     compile project(':switchCompatLibrary')
+    compile project(':teachervirus')
 }

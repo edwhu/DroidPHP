@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':teachervirus'
 include ':switchCompatLibrary'

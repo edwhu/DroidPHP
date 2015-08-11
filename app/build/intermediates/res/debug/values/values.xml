@@ -72,6 +72,11 @@
     <color name="background_light">#ffffffff</color>
     <color name="background_selected">#E8E8E8</color>
     <color name="black">#000</color>
+    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="black_overlay">#66000000</color>
+    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
     <color name="blue">#009</color>
     <color name="bright_foreground_dark">@color/background_light</color>
     <color name="bright_foreground_dark_disabled">#80ffffff</color>
@@ -118,6 +123,7 @@
     <color name="text_recent">#3797C7</color>
     <color name="toolbox_balance_title">#ff737373</color>
     <color name="white">#FFF</color>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="metaButtonBarStyle"/><attr format="reference" name="metaButtonBarButtonStyle"/></declare-styleable>
     <declare-styleable name="SherlockActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr format="string" name="title"/><attr format="string" name="subtitle"/><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr name="divider"/><attr name="background"/><attr format="reference|color" name="backgroundStacked"/><attr name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr format="dimension" name="itemPadding"/></declare-styleable>
     <declare-styleable name="SherlockActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
     <declare-styleable name="SherlockActionMode"><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr name="background"/><attr name="backgroundSplit"/><attr name="height"/></declare-styleable>
@@ -248,6 +254,12 @@
     </string>
     <string name="device_status">Device Status</string>
     <string name="dont_install">"Don't Install"</string>
+    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
     <string name="exception_msg">Something went wrong, please reinstall DroidPHP!</string>
     <string name="extension">Extension</string>
     <string name="feedback">Feedback</string>
@@ -311,6 +323,11 @@
     <string name="web_server_not_running">Web server not running!</string>
     <string name="welcome">Welcome page</string>
     <string name="yes">Yes</string>
+    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+    </style>
     <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppThemeDark" parent="android:style/Theme.DeviceDefault">
@@ -321,6 +338,24 @@
         <item name="switchStyle">@style/switch_light</item>
         <item name="textAppearance">@style/TextAppearance</item>
     </style>
+    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+    <style name="ButtonBarButton"/>
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">@style/ButtonBar</item>
+        <item name="metaButtonBarButtonStyle">@style/ButtonBarButton</item>
+    </style>
+    <!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
     <style name="HeaderTitleText" parent="TitleText">
         <item name="android:paddingLeft">10dp</item>
         <item name="android:singleLine">true</item>

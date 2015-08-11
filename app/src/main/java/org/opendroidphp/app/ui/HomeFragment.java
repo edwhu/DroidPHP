@@ -1,5 +1,5 @@
 package org.opendroidphp.app.ui;
-
+import org.oatsea.*;
 import android.app.Activity;
 import android.app.NotificationManager;
 import android.content.Context;
@@ -91,6 +91,7 @@ public class HomeFragment extends SherlockFragment implements View.OnClickListen
         //view.findViewById(R.id.ll_update).setOnClickListener(this);
         view.findViewById(R.id.ll_about).setOnClickListener(this);
         view.findViewById(R.id.ll_uninstall).setOnClickListener(this);
+        view.findViewById(R.id.ll_teacher_virus).setOnClickListener(this);
     }
 
     @Override
@@ -98,7 +99,12 @@ public class HomeFragment extends SherlockFragment implements View.OnClickListen
         if (view.getId() == R.id.ll_uninstall) {
             CommandTask task = CommandTask.createForUninstall(context);
             task.execute();
-        } else
+        }
+        else if (view.getId()==R.id.ll_teacher_virus)
+        {
+            startActivity(new Intent("org.oatsea.teachervirus.FullscreenActivity"));
+        }
+        else
             sInflateCallback.setOnViewIdReceived(view.getId());
     }
 

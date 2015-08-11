@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/webview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" /><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/teachervirus/src/main/res/layout/activity_fullscreen.xml --><!-- From: file:/Users/edward/DroidPHPGit/DroidPHP_AndroidStudioPort/app/build/intermediates/exploded-aar/DroidPHP_AndroidStudioPort/teachervirus/unspecified/res/layout/activity_fullscreen.xml -->
